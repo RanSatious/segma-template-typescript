@@ -7,14 +7,14 @@
 ## 仓库地址
 
 ```bash
-https://github.com/RanSatious/template-typescript
+https://github.com/RanSatious/segma-template-typescript
 ```
 
 ## 快速使用
 
 ```bash
 # 获取模板
-git clone https://github.com/RanSatious/template-typescript.git my-ts-package --depth=1
+git clone https://github.com/RanSatious/segma-template-typescript.git my-ts-package --depth=1
 
 # 清除模板原有的 git 信息
 # linux
