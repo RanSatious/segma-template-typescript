@@ -1,3 +1,7 @@
+# Deprecated!
+
+模板已被整合到 [create-segma-app](https://github.com/RanSatious/create-segma-app) 中，此处不再更新与维护。
+
 # @segma/template-typescript
 
 ## 简介
